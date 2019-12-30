@@ -10,7 +10,7 @@ c=j;
 while(c<i)
 {
 if(i%j==0)
-{cout<<"number is directly divisible.......";
+{cout<<"number is directly divisible........";
 return 0;}
 else{c=c+j;}
 }
